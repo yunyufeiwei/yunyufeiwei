@@ -4,6 +4,10 @@
 </p>
 -->
 
+<p>
+  <img src="https://raw.githubusercontent.com/yunyufeiwei/yunyufeiwei/output/github-contribution-grid-snake.svg">
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!;I+am+a+Game+Scene+Artist!;I+like+graphic+rendering!;&color=F7B526FF&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000";>
 </p>
