@@ -12,8 +12,8 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!;I+am+a+Game+Scene+Artist!;I+like+graphic+rendering!;&color=F7B526FF&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000";>
 </p>
 
-<p align="center">
-*悲观者永远正确，乐观者永远前行。*  
+<p align="right">
+------悲观者永远正确，乐观者永远前行。  
 </p>
 
 
